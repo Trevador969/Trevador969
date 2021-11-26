@@ -1,6 +1,4 @@
-
-## Hello Hello World, eu sou o trevador666 mais conhecido como trevas,sou dev na area de Data Science!
-
+##Hello World, eu sou o trevador666 mais conhecido como trevas,sou dev na area de Data Science!
 < div  align = "center" >
 
   < A  href = " https://github.com/Trevador666 " >
