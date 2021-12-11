@@ -1,8 +1,8 @@
 ##  Hello World, eu sou o Gabriel mais conhecido como trevador,sou dev na area de Data Science!
 <div align="left">
-  <a href="https://github.com/Trevador666">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Trevador666&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trevador666&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/Trevador969">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Trevador969&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trevador969&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="trevador-c" height="40" width="40" src="https://camo.githubusercontent.com/e3bef8417e0001e1367816322833b377c888f88a2158ba9ac88a3d8901504b44/68747470733a2f2f63646e2e7261776769742e636f6d2f6269744865726f2f62697449636f6e2f6d61737465722f7376672f632d73712e737667">
