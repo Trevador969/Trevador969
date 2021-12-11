@@ -1,4 +1,4 @@
-##  Hello World, eu sou o trevador666 mais conhecido como trevas,sou dev na area de Data Science!
+##  Hello World, eu sou o Gabriel mais conhecido como trevador,sou dev na area de Data Science!
 <div align="left">
   <a href="https://github.com/Trevador666">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Trevador666&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
