@@ -37,7 +37,7 @@
    ##
  
 <div> 
-  <h3>discord:Trevador666#4548
+  <h3>discord:Trevador969#4548
 <img align="center" alt="trevador-javascript" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2428/PNG/512/discord_black_logo_icon_147145.png">
 
   <img align="center" alt="trevador-end" height="381" width="1000" src="https://static.wikia.nocookie.net/animal-jam-clans-1/images/b/b8/Tumblr_ovcs9louCR1w2sfy3o1_500.gif/revision/latest/scale-to-width-down/400?cb=20180707164832">  
