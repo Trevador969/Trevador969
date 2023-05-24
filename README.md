@@ -1,7 +1,7 @@
 ##  Hello World, eu sou o Gabriel mais conhecido como trevador,sou dev Full Stack.
 <div>
   
-<img height="181em" src="https://github-readme-stats.vercel.app/api?username=Trevador969&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Trevador969&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trevador969&langs_count=8](hhttps://github.com/Trevador969/github-readme-stats)&theme=dark"/>
  
   
