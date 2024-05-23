@@ -9,9 +9,6 @@
 
 ###
 
-<div align="center">
-  <img height="0" src=""  />
-</div>
 
 ###
 
