@@ -98,10 +98,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Trevador969/count.svg?"  />
-</div>
-
 ###
 
 <div align="center">
