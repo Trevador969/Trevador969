@@ -20,16 +20,16 @@ Ah, e eu amo gatos! 🐱
 ### 🌐 Socials
 
 <p align="left">
-  <a href="https://twitter.com/coffofin" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
+  <a href="https://www.instagram.com/bielh.xyz/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="twitter" height="30" width="40" />
   </a>
-  <a href="https://soundcloud.com/coffofin" target="blank">
-    <img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/soundcloud.svg" alt="soundcloud" height="30" width="40" />
+  <a href="https://open.spotify.com/playlist/5ef26OLtQOrrmN4NCSqXlu" target="blank">
+    <img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/spotify.svg" alt="soundcloud" height="30" width="40" />
   </a>
-  <a href="https://discord.com/coffofin" target="blank">
+  <a href="https://discord.com/Trevador" target="blank">
     <img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/discord.svg" alt="soundcloud" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/@coffofin" target="blank">
+  <a href="https://www.youtube.com/@Trevador696" target="blank">
     <img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" />
   </a>
 </p>
