@@ -26,9 +26,9 @@ Ah, e eu amo gatos! 🐱
   <a href="https://soundcloud.com/coffofin" target="blank">
     <img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/soundcloud.svg" alt="soundcloud" height="30" width="40" />
   </a>
-   <a href="trevador696" target="_blank">
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1FNkB4oJhsoKGhR9IdFLnTqmE8c0rxk-TyA&s" height="35" alt="discord logo"  />
-   </a>
+  <a href="https://discord.com/coffofin" target="blank">
+    <img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/discord.svg" alt="soundcloud" height="30" width="40" />
+  </a>
   <a href="https://www.youtube.com/@coffofin" target="blank">
     <img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" />
   </a>
