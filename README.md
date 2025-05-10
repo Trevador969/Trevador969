@@ -145,4 +145,3 @@ Ah, e eu amo gatos! 🐱
 </div>
 ---
 
-<h4 align="center">The :3 community is dying, repost if u are a true :3</h4>
