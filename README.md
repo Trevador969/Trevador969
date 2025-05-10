@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.tenor.com/gSmJEv_z2O4AAAAd/snine-snine19.gif" width="250"/>
 
-<h2>Hi, I'm studying some things and doing some code :3</h2>
+<h2>👋 Opa! Eu sou o Gabriel (ou Trevador pra quem conhece por aí)</h2>
 
 ---
 
