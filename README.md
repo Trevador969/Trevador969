@@ -1,5 +1,5 @@
 <h2 align="left">Hello, World!</h2>
-<p class="font-size-md">
+<p class="font-size-lg">
   Sou o Gabriel, mais conhecido como Trevador, desenvolvedor Full Stack.<br>
   Atuei por 2 anos na Epic Games como <strong>Engineering Manager</strong>, liderando equipes de desenvolvimento de software.<br>
   Atualmente, gerencio 5 equipes de desenvolvedores em projetos autônomos e de alta complexidade.<br>
