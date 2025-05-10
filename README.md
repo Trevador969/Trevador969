@@ -4,7 +4,6 @@
 
 <h2>👋 E aí, sou o Gabriel! Desenvolvedor Sênior, apaixonado por tecnologia e soluções criativas.</h2>
 
----
 
 ### 🧠 Sobre mim
 
