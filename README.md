@@ -17,9 +17,6 @@ Gosto de criar soluções que fazem sentido de verdade — para pessoas e para n
 
 ###
 
-<div align="center">
-  <img height="0" src=""  />
-</div>
 
 ###
 
