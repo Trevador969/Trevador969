@@ -1,4 +1,4 @@
-<h1 align="center"> >.< Gabriel "Trevador" on the Code </h1>
+<h1 align="center"> >.<  | Código, Café e Caos Criativo </h1>
 
 <img align='right' src="https://media.tenor.com/gSmJEv_z2O4AAAAd/snine-snine19.gif" width="250"/>
 
