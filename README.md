@@ -1,9 +1,10 @@
 <h2 align="left">Hello, World!</h2>
 <p class="font-size-lg">
-  Sou o Gabriel, mais conhecido como Trevador, desenvolvedor Full Stack.
-  Atuei por 2 anos na Epic Games como <strong>Engineering Manager</strong>, liderando equipes de desenvolvimento de software.
-  Atualmente, gerencio 5 equipes de desenvolvedores em projetos autônomos e de alta complexidade.
-  Apaixonado por tecnologia, inovação e soluções que realmente fazem a diferença.
+Sou o Gabriel, mas muita gente me conhece como Trevador.
+Trabalho como desenvolvedor Full Stack e sou apaixonado por tecnologia e inovação.
+Passei 2 anos na Epic Games como <strong>Tech Lead</strong>, liderando tecnicamente equipes de desenvolvimento.
+Hoje, gerencio 5 equipes de devs em projetos autônomos e desafiadores.
+Gosto de criar soluções que fazem sentido de verdade — para pessoas e para negócios.
 </p>
 
 
