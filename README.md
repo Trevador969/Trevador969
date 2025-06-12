@@ -10,7 +10,7 @@
 Sou o Gabriel, mas muita gente me conhece como <strong>Trevador</strong>.  
 Trabalho como desenvolvedor <strong>Full Stack</strong> e sou apaixonado por tecnologia e inovação.  
 Passei 2 anos na <strong>Epic Games</strong> como <strong>Tech Lead</strong>, liderando tecnicamente equipes de desenvolvimento.  
-Hoje, gerencio 5 equipes de devs em projetos autônomos e desafiadores.  
+Hoje, gerencio 3 equipes de devs em projetos autônomos.  
 
 Gosto de criar soluções que fazem sentido de verdade — para pessoas e para negócios.  
 Ah, e eu amo gatos! 🐱
