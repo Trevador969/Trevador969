@@ -1,8 +1,10 @@
 <h1 align="start"> >.<  | Código, Café e Caos Criativo </h1>
 
-<img align='right' src="https://media.tenor.com/gSmJEv_z2O4AAAAd/snine-snine19.gif" width="250"/>
+<p align="center">
+  <img src="https://media.tenor.com/gSmJEv_z2O4AAAAd/snine-snine19.gif" width="250" />
+</p>
 
-<h2>👋 E aí, sou o Gabriel! Desenvolvedor Sênior, apaixonado por tecnologia e soluções criativas.</h2>
+<h2 align="center">👋 E aí, sou o Gabriel!<br>Desenvolvedor Sênior, apaixonado por tecnologia e soluções criativas.</h2>
 
 
 ### 🧠 Sobre mim
